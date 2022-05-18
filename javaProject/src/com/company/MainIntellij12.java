@@ -1,6 +1,6 @@
 package com.company;
 
 public class MainIntellij12 {
-    //demo comment 
-
+    //demo comment
+//non demo
 }
